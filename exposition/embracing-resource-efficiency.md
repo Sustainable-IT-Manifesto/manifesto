@@ -1,5 +1,7 @@
 # Embracing Resource Efficiency in the World of Plenty
 
+Matthew Kelly Williams (![kelly@sustainableitmanifesto.org](mailto:kelly@sustainableitmanifesto.org))
+
 In the age of rapid technological advancements, it's easy to forget that the resources we have at our fingertips are not infinite. When we talk about resources in the context of computers and technology, we're often referring to things like processing power, memory, storage, and network bandwidth. There's a widespread notion that since we have abundant resources, we can use them without much thought. However, this mindset can lead to a host of issues, including environmental concerns. In this article, we will delve into the principle of “Resource Efficiency over Resource Abundance” and understand why it’s vital to rethink how we use resources in technology.
 
 ## A Wave of Abundance

@@ -1,5 +1,7 @@
 # Charting a Greener Course: Prioritizing Long-term Sustainability Over Short-term Gains
 
+Matthew Kelly Williams (![kelly@sustainableitmanifesto.org](mailto:kelly@sustainableitmanifesto.org))
+
 In a world that often seems to be racing against itself, the buzzword is ‘instant’. Instant messaging, instant gratification, and instant profits. While the allure of rapid results is tempting, it’s essential to pause and ponder – what does this relentless pursuit of short-term gains mean for our future? In this article, we will explore why it’s crucial, especially in the field of technology, to value long-term sustainability over short-term gains.
 
 ## The Instant Gratification Culture

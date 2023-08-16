@@ -1,5 +1,7 @@
 # Seeing the Bigger Picture: Embracing Holistic Impact Awareness over Siloed Focus
 
+Matthew Kelly Williams (![kelly@sustainableitmanifesto.org](mailto:kelly@sustainableitmanifesto.org))
+
 Imagine you are assembling a puzzle. You concentrate intensely on fitting individual pieces together. But if you get too caught up in the details and ignore the bigger picture, you might miss how each piece connects to create the complete image. This analogy resonates well with the concept of Holistic Impact Awareness in technology, where it’s vital to understand how each element of a project interacts with others and contributes to the broader goals and consequences.
 
 ## Siloed Focus: The Tunnel Vision

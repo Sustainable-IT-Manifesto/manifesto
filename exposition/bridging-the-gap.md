@@ -1,5 +1,7 @@
 # Embracing Evolution: Continuous Environmental Improvement over Static Practices
 
+Matthew Kelly Williams (![kelly@sustainableitmanifesto.org](mailto:kelly@sustainableitmanifesto.org))
+
 The field of technology is ever-evolving, often at a breakneck pace. This dynamism is part of what makes it an exciting area to explore and be part of. However, amidst this whirlwind of innovations and developments, there's one aspect that we mustn't lose sight of: the environment. In this article, we're going to delve into the concept of "Continuous Environmental Improvement over Static Practices" and explore why it's crucial for the technology sector.
 
 ## The Allure of the Familiar
