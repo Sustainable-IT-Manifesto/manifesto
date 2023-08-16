@@ -1,4 +1,4 @@
-# manifesto
+# Sustainable IT Manifesto
 
 Working repository for the manifesto.
 
