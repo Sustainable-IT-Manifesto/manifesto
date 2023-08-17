@@ -5,6 +5,9 @@ We are uncovering better ways of developing software by doing it and helping oth
 **Resource Efficiency over Resource Abundance**
 Just as a well-written code is a work of art, so is the efficient use of resources. We understand that in an age where resources are seemingly abundant, it is easy to become complacent. However, we choose to prioritize resource efficiency to reduce the environmental footprint of our software.
 
+** Consider Return on Environment over Return on Investment**
+Focus of long term Sustainability Impact and Gains over short term Cost reduction, productivity and profitability. Practicing proper Sustainable IT will lead to better efficiency, better resource utilization, edge over competition and thus better business value.
+
 **Long-term Sustainability over Short-term Gains**
 We value the foresight to see beyond the immediate benefits and consider the long-lasting impact of our decisions. Long-term sustainability guides us to create software that not only meets the current needs but does so while ensuring minimal impact on our planet.
 
@@ -25,11 +28,12 @@ While there is value in the items on the right, we value the items on the left m
 - Embrace efficient algorithms and data structures.
 - Continuously refactor code for performance improvements.
 - Consider the energy efficiency of libraries and frameworks.
+- Practice green coding principles and architecture
 
 ### DevOps and Cloud Professionals
 - Automate resource scaling to minimize waste.
 - Monitor and optimize energy and resource consumption.
-- Choose cloud providers and data centers with renewable energy policies.
+- Choose cloud providers and data centers which implement sustainable practices with renewable energy policies.
 
 ### Testers
 - Test for application performance and resource consumption.
@@ -46,5 +50,6 @@ While there is value in the items on the right, we value the items on the left m
 ### Management and Leadership
 - Set the vision and goals concerning sustainability.
 - Create a culture that understands and values environmental considerations.
+- Move from digital transformation to sustainable digital transformation
 
 This manifesto serves as a guiding light to align our endeavors in creating software that is not only functional and robust but is also developed with the consciousness of its impact on our environment. Through our daily choices, continuous improvements, and collaborations, let's contribute towards a sustainable future for all.

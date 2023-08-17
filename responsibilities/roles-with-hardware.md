@@ -11,6 +11,9 @@
 - Selecting materials that are sustainable and have minimal environmental impact.
 - Ensuring hardware is durable and reduces the need for frequent replacements.
 - Collaborating with software developers to optimize the synergy between software and hardware.
+- Practicing and implementing circular economy.
+- Designing hardware that reduce and eliminate water usage.
+- Ensuring proper IT asset disposition.
 
 ### 3. **Systems Architect**
 **Responsibilities:**
@@ -24,6 +27,8 @@
 - Selecting and managing cloud services that prioritize sustainability.
 - Streamlining the deployment process to reduce resource wastage.
 - Collaborating with both software developers and hardware engineers to ensure seamless integration and deployment.
+- Converge IT with sustainability to enable sustainable business.
+
 
 ### 5. **Quality Assurance (QA) Tester**
 **Responsibilities:**
@@ -56,11 +61,14 @@
 - Sourcing materials that are environmentally friendly.
 - Ensuring that manufacturing processes have a minimal carbon footprint.
 - Collaborating with hardware designers to understand material needs and constraints.
+- Setting policies for sustainable procurement and sustainability KPIs for conducting vendor evaluation.
+- Vendor performance evaluation having sustainability KPIs.
 
 ### 10. **End-user Support/IT Support**
 **Responsibilities:**
 - Educating users on best practices to reduce energy consumption.
 - Recommending energy-efficient settings and practices.
 - Troubleshooting issues without always resorting to hardware replacements, thus reducing e-waste.
+- Proper IT asset disposition
 
 By clearly defining roles and responsibilities in the context of environmental sustainability, organizations can ensure that each individual understands their part in creating software and hardware solutions that are not only efficient and innovative but also kind to our planet.
