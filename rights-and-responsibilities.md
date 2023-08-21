@@ -32,5 +32,5 @@ The following set of expectations and rights seeks to solidify the commitment of
 
 6. **Collaborative Opportunities**: They should be given priority or special consideration for collaborative opportunities, workshops, seminars, or events associated with the manifesto, allowing them to deepen their understanding and application of its principles.
 
-7. **Fair Representation**: Regardless of the size, scale, or location, nationality or designation of the signatory (be it an individual, small business, or large corporation), each should have equal representation and voice within the manifesto's community. Signatories are individuals by their own rights and do not represent any organization that they work for.
+7. **Fair Representation**: Regardless of the size, scale, or location, nationality or designation of the signatory, each should have equal representation and voice within the manifesto's community. Signatories are individuals by their own rights and do not represent any organization that they work for.
 
