@@ -5,7 +5,7 @@ We are uncovering better ways of developing software by doing it and helping oth
 **Resource Efficiency over Resource Abundance**
 Just as a well-written code is a work of art, so is the efficient use of resources. We understand that in an age where resources are seemingly abundant, it is easy to become complacent. However, we choose to prioritize resource efficiency to reduce the environmental footprint of our software.
 
-** Consider Return on Environment over Return on Investment**
+**Consider Return on Environment over Return on Investment**
 Focus of long term Sustainability Impact and Gains over short term Cost reduction, productivity and profitability. Practicing proper Sustainable IT will lead to better efficiency, better resource utilization, edge over competition and thus better business value.
 
 **Long-term Sustainability over Short-term Gains**
